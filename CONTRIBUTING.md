@@ -32,7 +32,7 @@ Also, star and watch the repository to receive all the updates directly to your 
 ## 2. Clone the forked repo to your system
 
 Clone the repository that you just forked into your account.
-Be careful to clone the forked repo and not the main repo (rahulsain/CPP-DSA) as making direct changes to the main repo will result in conflict of code and lack of co-ordination as we proceed further.
+Be careful to clone the forked repo and not the main repo as making direct changes to the main repo will result in conflict of code and lack of co-ordination as we proceed further.
 
 
 **How to Clone a forked repo? - [YouTube Link](https://youtu.be/HbSjyU2vf6Y?t=134)**
@@ -59,7 +59,7 @@ Now, after making any changes to your project on the system, follow these simple
 
 ## 4. Create a pull request
 
-After pushing the changes to your forked repository (your-username/CPP-DSA), all you have to do is create a new pull request from your account by simply clicking on the *Pull Request* button.
+After pushing the changes to your forked repository, all you have to do is create a new pull request from your account by simply clicking on the *Pull Request* button.
 
 
 
